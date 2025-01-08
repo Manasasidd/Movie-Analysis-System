@@ -1,5 +1,4 @@
-# ia_final_project
-Team Member :
+# Movie Analayis System
 
 **Movie Analysis on AWS**
 
@@ -140,12 +139,6 @@ Prerequisites
 - Python environment with Pandas and Numpy for Lambda function.
 - MySQL Workbench
 - Access to Tableau for visualization.
-
-Contributors
-
-- Anupam Semwal
-- Bhushan Babar
-- Nikki Rastogi
 
 
 
