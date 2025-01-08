@@ -1,4 +1,4 @@
-# Movie Analayis System
+# Movie Analysis System
 
 **Movie Analysis on AWS**
 
